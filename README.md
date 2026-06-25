@@ -22,27 +22,27 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ## Project
-- ## Construction_Simulation_With_Unity
+- ## [Construction_Simulation_With_Unity](https://github.com/DriedSlime/Construction_Simulation_Game)
   캡스톤디자인 중장비 조작 시뮬레이션 게임
 <br>
 
-- ## [Balloon-Shooer-AR](https://github.com/DriedSlime/Balloon-Shooter-AR.git)
+- ## [Balloon-Shooer-AR](https://github.com/DriedSlime/Balloon-Shooter-AR)
   안드로이드의 AR-Core를 활용한 AR 슈팅 게임
 <br>
 
-- ## [VR_Shooting_Training](https://github.com/DriedSlime/VR_Shooting_Training.git)
+- ## [VR_Shooting_Training](https://github.com/DriedSlime/VR_Shooting_Training)
   Meta Quest2를 활용한 사격 훈련 게임
 <br>
 
-- ## [Solar_System_Simulation](https://github.com/DriedSlime/Solar_System_Simulation.git)
+- ## [Solar_System_Simulation](https://github.com/DriedSlime/Solar_System_Simulation)
   WebGL2 기반으로 항성의 밝기, 행성의 공전 및 자전 등이 조작 가능한 태양계 시뮬레이션 
 <br>
 
-- ## [Bill_Manager](https://github.com/DriedSlime/BIll_Manager.git)
+- ## [Bill_Manager](https://github.com/DriedSlime/BIll_Manager)
   .Net FrameWork 환경에서 개발한 공과금 관리 프로그램
 <br>
 
-- ## [1-1Comunicator](https://github.com/DriedSlime/1-1_Communicator.git)
+- ## [1-1Comunicator](https://github.com/DriedSlime/1-1_Communicator)
   화상 통화, 파일 전송이 가능한 통신 프로그램
 <br>
 
