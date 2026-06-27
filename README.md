@@ -3,9 +3,6 @@
 ---
 <br>
 
-## 학적
-- **한림대학교 정보과학대학 콘텐츠It전공**
-
 ## Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DriedSlime&layout=compact&theme=dark)
 ### Languages
